@@ -6,6 +6,6 @@
   <h1>x86-Assembly</h1>
 </div>
 
-<div>
+<div align="center">
   <strong>A lot of x86-Assembly programs with their counterpart in C/C++ </strong>
 </div>
