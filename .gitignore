@@ -1,5 +1,6 @@
 Debug/
 ipch/ 
+.vscode/
 x86-Assembly.opensdf
 x86-Assembly.sdf
 x86-Assembly.vcxproj
