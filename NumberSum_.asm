@@ -1,7 +1,10 @@
-%include "io.inc"
+
+%use masm
 
 section .text
+
 global NumberSum_
+
 NumberSum_:
             mov ebp, esp; for correct debugging
    			push ebp
