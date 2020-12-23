@@ -10,10 +10,10 @@ void ComputeSums() {
 	int s1b=a + b + c;
 	int s2b=a * a + b * b + c*c;
 	int s3b=a*a*a+b*b*b+c*c*c;
-	 printf("-------------CallingConvetion.h------------\n");
+	printf("-------------CallingConvetion.h------------\n");
 	printf("input: a: %d b: %d c: %d\n", a,b,c);
-	printf("Output: s1a: %d s2a: %d s3a: %d\n", s1a,s2a,s3a);
-	 printf("        s1b: %d s2b: %d s3b: %d\n", s1b, s2b, s3b);
-	 printf("-------------CallingConvetion.h------------\n");
+ 	printf("Output: s1a: %d s2a: %d s3a: %d\n", s1a,s2a,s3a);
+	printf("        s1b: %d s2b: %d s3b: %d\n", s1b, s2b, s3b);
+	printf("-------------CallingConvetion.h------------\n");
 	 
 }

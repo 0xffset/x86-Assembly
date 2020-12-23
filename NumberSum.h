@@ -1,6 +1,4 @@
-#include "stdafx.h"
 #include <cstdio>
-
 
 extern "C" int NumberSum_(int a, int b, int c);
 
