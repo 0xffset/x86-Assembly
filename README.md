@@ -10,8 +10,9 @@
   <strong>A lot of x86-Assembly programs with their counterpart in C/C++ </strong>
 </div>
 
+<a href="https://github.com/RolEYder/x86-Assembly"><img alt="GitHub license" src="https://img.shields.io/github/license/RolEYder/x86-Assembly?style=plastic"></a>
 
-# Quickly Assembly x86 References
+### Quickly Assembly x86 References
 ####  General-Purpose Register
 
 > *General-purpose registers (GPRs) can store both data and addresses, i.e., they are combined data/address registers; in some architectures, the register file is unified so that the GPRs can store floating-point numbers as well.*
