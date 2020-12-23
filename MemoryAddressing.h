@@ -1,5 +1,6 @@
 #include 'stdafx.h'
 #include <cstdio>
+
 extern "C" int NumFib_;
 extern "C" MemoryAddressing._(int i, int* v2, int* v3, int* v4);
 
