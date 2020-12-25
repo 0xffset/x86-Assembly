@@ -6,9 +6,9 @@ FibNumbers	dword 0, 1, 1, 2, 3, 5, 8 13
 		dword 21, 34, 55, 89, 144, 233, 377, 610
 
 NumFib_ 	dword ($ - FibNumbers) / sizeof dword
-		public FibNumbers_
+		public NumFib_
 
-; extern "C" MemoryAddressing._(int i, int* v2, int* v3, int* v4);
+; extern "C" MemoryAddressing_(int i, int* v1, int* v2, int* v3, int* v4);
 ; 
 ; Description: Show the addressing memory with access to operants in memory
 ;
@@ -75,9 +75,3 @@ InvalidIndex:
 
 MemoryAddressing_ endp
 	end
-	
-
-
-
-
-
